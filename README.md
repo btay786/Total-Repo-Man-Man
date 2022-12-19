@@ -3,13 +3,13 @@ module 1 baby!  oh boy.
 Goals for first Project:
 as a student i'm hoping to change and edit and leave the code tighter and better and follow the user story as well as the acceptance criteria.
 
-USER STORY:
+##USER STORY:
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-ACCEPTANCE CRITERIA:
+###ACCEPTANCE CRITERIA:
 
 "GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -23,41 +23,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title"
 
-Six days until completion is needed and challenge 1 is due, on December 17th at 4pm i'll meet with at tutor and see how i'm doing.   
+#### Description:
+I had wonderful and fun experience filled with roller coaster emotions coming to grips with taking the given code and reviewing the semnatic HTML elements.  I enjoyed concising them down into different sections and division, as well has enjoed giving unique id attribues to be used in css. then i ordered it all, and made it beautfiul, i rock, you rock, we all rock....have a wonderful day! and tHank you.
 
+github repo - https://github.com/btay786/Total-Repo-Man-Man
 
+github pages link - https://btay786.github.io/Total-Repo-Man-Man/
 
-
-.search-engine-optimization {margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-    
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.contents{padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+screenshot -
