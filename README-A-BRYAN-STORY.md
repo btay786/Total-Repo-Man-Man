@@ -30,4 +30,6 @@ github repo - https://github.com/btay786/Total-Repo-Man-Man
 
 github pages link - https://btay786.github.io/Total-Repo-Man-Man/
 
-screenshot -
+screenshot - assets/images/Screen Shot 2022-12-19 at 2.41.25 PM.png
+
+
